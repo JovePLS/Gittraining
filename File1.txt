@@ -1,1 +1,3 @@
 Modif3bis
+[14:12] Olivier (Invité)
+    git config --globall alias.lg "log --oneline --all --graph"
